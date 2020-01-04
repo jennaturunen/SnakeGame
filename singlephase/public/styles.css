@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: gainsboro;
+}
+
+h1 {
+    color: gray;
+    display: flex;
+    justify-content: center;
+}
+
+.game-container {
+    display: flex;
+    justify-content: center;
+}
